@@ -11,3 +11,6 @@ Sample website with plenty of files for demos%
 skcn xasjc scalijcoi
 sadj asfjna dasn
 jfsda askjns dkajndjan dsaljn
+
+#Copyright
+NOTICE
