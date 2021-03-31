@@ -14,6 +14,13 @@ jfsda askjns dkajndjan dsaljn
 
 #Copyright
 NOTICE
+<<<<<<< HEAD
 salkdp
 asa
 
+=======
+aksnda
+dasjkn
+askldm
+asdmp
+>>>>>>> copyright
